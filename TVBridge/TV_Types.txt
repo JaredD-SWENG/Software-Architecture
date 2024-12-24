@@ -1,0 +1,9 @@
+﻿TV 200
+Smart_TV 300
+UltraHD_TV 400
+Sony_TV 280
+Sony_Smart_TV 380
+Sony_UltraHD_TV 480
+Vizio_TV 250
+Vizio_Smart_TV 350
+Vizio_UltraHD_TV 450

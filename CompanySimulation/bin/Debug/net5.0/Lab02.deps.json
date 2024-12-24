@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Lab02/1.0.0": {
+        "dependencies": {
+          "SalaryWall": "1.0.0"
+        },
+        "runtime": {
+          "Lab02.dll": {}
+        }
+      },
+      "SalaryWall/1.0.0": {
+        "runtime": {
+          "SalaryWall.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalaryWall/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

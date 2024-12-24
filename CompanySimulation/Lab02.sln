@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab02", "Lab02.csproj", "{F0A64797-D5ED-407E-BCD8-5EDC1BD23598}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalaryWall", "..\SalaryWall\SalaryWall.csproj", "{CE4F9DE4-62C8-48E5-9828-93E25A97FA37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F0A64797-D5ED-407E-BCD8-5EDC1BD23598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A64797-D5ED-407E-BCD8-5EDC1BD23598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A64797-D5ED-407E-BCD8-5EDC1BD23598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A64797-D5ED-407E-BCD8-5EDC1BD23598}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE4F9DE4-62C8-48E5-9828-93E25A97FA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE4F9DE4-62C8-48E5-9828-93E25A97FA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE4F9DE4-62C8-48E5-9828-93E25A97FA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE4F9DE4-62C8-48E5-9828-93E25A97FA37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92F24F13-D416-493E-8336-456C11A4D893}
+	EndGlobalSection
+EndGlobal

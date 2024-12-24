@@ -1,0 +1,6 @@
+﻿Initialize
+Sum
+Subtract
+Product
+Power
+Log
